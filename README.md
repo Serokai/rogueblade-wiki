@@ -23,11 +23,9 @@ layout:
 
 <img src=".gitbook/assets/logo.png" alt="" width="220">
 
-<br><br>
-
-<a href="https://www.roblox.com/games/13141106123/RogueBlade"><img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F%20Play%20on%20Roblox-00A2FF?style=for-the-badge&logoColor=white" alt="Play on Roblox" height="42"></a>
-
 </div>
+
+{% embed url="https://www.roblox.com/games/13141106123/RogueBlade" %}
 
 {% hint style="warning" %}
 **Unofficial.** This wiki is community-maintained and is **not** affiliated with or endorsed by the developers of RogueBlade. Info reflects the current live version and may lag behind recent patches.
