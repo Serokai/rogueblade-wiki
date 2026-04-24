@@ -3,7 +3,7 @@ description: >-
   The unofficial community wiki for RogueBlade — a 3-4 player co-op roguelite
   on Roblox inspired by Binding of Isaac, Risk of Rain, and Randomly Generated
   Droids.
-cover: .gitbook/assets/cover.png
+cover: .gitbook/assets/banner.png
 coverY: 0
 layout:
   cover:
@@ -22,6 +22,12 @@ layout:
 ---
 
 # 🗡️ RogueBlade Wiki
+
+<div align="center">
+
+<img src=".gitbook/assets/logo.png" alt="RogueBlade logo" width="220">
+
+</div>
 
 {% hint style="info" %}
 **Unofficial.** This wiki is community-maintained and is **not** affiliated with or endorsed by the developers of RogueBlade. Info reflects the current live version and may lag behind recent patches.
