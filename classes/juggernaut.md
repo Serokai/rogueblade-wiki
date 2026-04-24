@@ -1,5 +1,5 @@
 ---
-description: Juggernaut class — stats, starting loadout, skills and mastery passive.
+description: Juggernaut class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Juggernaut

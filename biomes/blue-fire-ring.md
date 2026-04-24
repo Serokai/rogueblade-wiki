@@ -1,5 +1,5 @@
 ---
-description: Blue Fire Ring biome — enemies, boss, hazards.
+description: Blue Fire Ring biome - enemies, boss, hazards.
 ---
 
 # Blue Fire Ring

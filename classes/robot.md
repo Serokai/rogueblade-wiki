@@ -1,5 +1,5 @@
 ---
-description: Robot class — stats, starting loadout, skills and mastery passive.
+description: Robot class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Robot

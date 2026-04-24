@@ -1,5 +1,5 @@
 ---
-description: Marble King boss — attacks, phases and strategies.
+description: Marble King boss - attacks, phases and strategies.
 ---
 
 # Marble King

@@ -1,5 +1,5 @@
 ---
-description: Necromancer class — stats, starting loadout, skills and mastery passive.
+description: Necromancer class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Necromancer

@@ -1,5 +1,5 @@
 ---
-description: Molter enemies — Bull, Goat, Centipede, Dog variants.
+description: Molter enemies - Bull, Goat, Centipede, Dog variants.
 ---
 
 # Molters

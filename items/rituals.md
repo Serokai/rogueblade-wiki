@@ -1,5 +1,5 @@
 ---
-description: Items purchased with max HP — discounts, penalties, class interactions.
+description: Items purchased with max HP - discounts, penalties, class interactions.
 ---
 
 # Rituals

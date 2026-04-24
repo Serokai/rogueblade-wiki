@@ -1,5 +1,5 @@
 ---
-description: Demon class — stats, starting loadout, skills and mastery passive.
+description: Demon class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Demon

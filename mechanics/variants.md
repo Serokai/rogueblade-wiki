@@ -1,5 +1,5 @@
 ---
-description: Overgrowth, Ashen, Lost — run modifiers.
+description: Overgrowth, Ashen, Lost - run modifiers.
 ---
 
 # Variants

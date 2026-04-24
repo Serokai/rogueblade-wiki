@@ -1,5 +1,5 @@
 ---
-description: Vampire class — stats, starting loadout, skills and mastery passive.
+description: Vampire class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Vampire

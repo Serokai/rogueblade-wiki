@@ -33,7 +33,7 @@ RogueBlade features **29 playable classes**. Each has its own starting stats, lo
 [🆕 Noob](noob.md) · [💰 Merchant](merchant.md) · [🎲 Dealer](dealer.md) · [👹 Demon](demon.md) · [🔧 Engineer](engineer.md) · [⚡ Paladin](paladin.md)
 
 {% hint style="success" %}
-**Team comp tip:** a balanced 4-player team usually runs 1 tank, 1 healer and 2 damage — but RogueBlade rewards experimentation. Triple-healer with Bard buffs can carry harder than you'd think.
+**Team comp tip:** a balanced 4-player team usually runs 1 tank, 1 healer and 2 damage - but RogueBlade rewards experimentation. Triple-healer with Bard buffs can carry harder than you'd think.
 {% endhint %}
 
 ## 🔓 Unlock method

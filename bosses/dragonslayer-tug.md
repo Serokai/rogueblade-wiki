@@ -1,5 +1,5 @@
 ---
-description: Dragonslayer Tug boss — attacks, phases and strategies.
+description: Dragonslayer Tug boss - attacks, phases and strategies.
 ---
 
 # Dragonslayer Tug

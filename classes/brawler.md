@@ -1,5 +1,5 @@
 ---
-description: Brawler class — stats, starting loadout, skills and mastery passive.
+description: Brawler class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Brawler

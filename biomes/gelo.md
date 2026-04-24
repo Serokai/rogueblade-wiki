@@ -1,5 +1,5 @@
 ---
-description: Gelo biome — enemies, boss, hazards.
+description: Gelo biome - enemies, boss, hazards.
 ---
 
 # Gelo

@@ -1,5 +1,5 @@
 ---
-description: Blood Titan class — stats, starting loadout, skills and mastery passive.
+description: Blood Titan class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Blood Titan

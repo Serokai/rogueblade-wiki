@@ -1,5 +1,5 @@
 ---
-description: Healer class — stats, starting loadout, skills and mastery passive.
+description: Healer class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Healer

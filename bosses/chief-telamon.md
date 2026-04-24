@@ -1,5 +1,5 @@
 ---
-description: Chief Telamon boss — attacks, phases and strategies.
+description: Chief Telamon boss - attacks, phases and strategies.
 ---
 
 # Chief Telamon

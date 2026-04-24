@@ -1,5 +1,5 @@
 ---
-description: The mushroom enemy family — Mushroom Highlands natives.
+description: The mushroom enemy family - Mushroom Highlands natives.
 ---
 
 # Mush

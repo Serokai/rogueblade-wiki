@@ -1,5 +1,5 @@
 ---
-description: Rolaric boss — attacks, phases and strategies.
+description: Rolaric boss - attacks, phases and strategies.
 ---
 
 # Rolaric

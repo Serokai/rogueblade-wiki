@@ -1,5 +1,5 @@
 ---
-description: Bard class — stats, starting loadout, skills and mastery passive.
+description: Bard class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Bard

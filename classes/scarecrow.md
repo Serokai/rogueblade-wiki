@@ -1,5 +1,5 @@
 ---
-description: Scarecrow class — stats, starting loadout, skills and mastery passive.
+description: Scarecrow class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Scarecrow

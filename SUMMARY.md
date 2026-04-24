@@ -113,8 +113,8 @@
 * [Dragonslayer Tug](bosses/dragonslayer-tug.md)
 * [Bed of Death](bosses/bed-of-death.md)
 * [Liontamer Jiben](bosses/liontamer-jiben.md)
-* [Myrafic — The Rogue Blade](bosses/myrafic.md)
-* [Rolaric — Abyssal King](bosses/rolaric.md)
+* [Myrafic - The Rogue Blade](bosses/myrafic.md)
+* [Rolaric - Abyssal King](bosses/rolaric.md)
 * [Leviathan](bosses/leviathan.md)
 * [Pluto](bosses/pluto.md)
 

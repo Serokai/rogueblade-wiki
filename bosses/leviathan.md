@@ -1,5 +1,5 @@
 ---
-description: Leviathan boss — attacks, phases and strategies.
+description: Leviathan boss - attacks, phases and strategies.
 ---
 
 # Leviathan

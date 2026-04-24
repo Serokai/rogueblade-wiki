@@ -1,5 +1,5 @@
 ---
-description: Mana-based magic staffs — damage, healing and utility.
+description: Mana-based magic staffs - damage, healing and utility.
 ---
 
 # Staffs

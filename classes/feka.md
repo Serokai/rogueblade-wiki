@@ -1,5 +1,5 @@
 ---
-description: Feka class — stats, starting loadout, skills and mastery passive.
+description: Feka class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Feka

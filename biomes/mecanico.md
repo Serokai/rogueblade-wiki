@@ -1,5 +1,5 @@
 ---
-description: Mecanico biome — enemies, boss, hazards.
+description: Mecanico biome - enemies, boss, hazards.
 ---
 
 # Mecanico

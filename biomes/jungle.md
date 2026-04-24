@@ -1,5 +1,5 @@
 ---
-description: Jungle biome — enemies, boss, hazards.
+description: Jungle biome - enemies, boss, hazards.
 ---
 
 # Jungle

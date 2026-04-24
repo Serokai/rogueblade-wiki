@@ -1,5 +1,5 @@
 ---
-description: Oceano biome — enemies, boss, hazards.
+description: Oceano biome - enemies, boss, hazards.
 ---
 
 # Oceano

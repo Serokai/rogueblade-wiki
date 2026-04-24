@@ -1,5 +1,5 @@
 ---
-description: How team play works — VIP servers, matchmaking, revives, drops.
+description: How team play works - VIP servers, matchmaking, revives, drops.
 ---
 
 # Co-op Play

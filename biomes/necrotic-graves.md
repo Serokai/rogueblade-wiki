@@ -1,5 +1,5 @@
 ---
-description: Necrotic Graves biome — enemies, boss, hazards.
+description: Necrotic Graves biome - enemies, boss, hazards.
 ---
 
 # Necrotic Graves

@@ -1,5 +1,5 @@
 ---
-description: Pluto boss — attacks, phases and strategies.
+description: Pluto boss - attacks, phases and strategies.
 ---
 
 # Pluto

@@ -1,5 +1,5 @@
 ---
-description: Goat Molter boss — attacks, phases and strategies.
+description: Goat Molter boss - attacks, phases and strategies.
 ---
 
 # Goat Molter

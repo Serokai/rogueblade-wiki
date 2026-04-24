@@ -1,5 +1,5 @@
 ---
-description: Engineer class — stats, starting loadout, skills and mastery passive.
+description: Engineer class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Engineer

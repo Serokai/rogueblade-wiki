@@ -1,5 +1,5 @@
 ---
-description: Angel class — stats, starting loadout, skills and mastery passive.
+description: Angel class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Angel

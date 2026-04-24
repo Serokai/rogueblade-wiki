@@ -1,5 +1,5 @@
 ---
-description: Salis Forest biome — enemies, boss, hazards.
+description: Salis Forest biome - enemies, boss, hazards.
 ---
 
 # Salis Forest

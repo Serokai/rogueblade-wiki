@@ -14,5 +14,5 @@ Update notes organised chronologically. Most recent patches are at the bottom of
 | [2026](2026.md) | Blood Update, Bloodlands biome, mana rework |
 
 {% hint style="info" %}
-This is a mirror for reference only — the source of truth is the **#updates** channel in the official RogueBlade Discord.
+This is a mirror for reference only - the source of truth is the **#updates** channel in the official RogueBlade Discord.
 {% endhint %}

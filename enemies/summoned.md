@@ -1,5 +1,5 @@
 ---
-description: Enemies spawned by summoners — no edinho drops.
+description: Enemies spawned by summoners - no edinho drops.
 ---
 
 # Summoned Enemies

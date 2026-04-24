@@ -1,5 +1,5 @@
 ---
-description: Myrafic boss — attacks, phases and strategies.
+description: Myrafic boss - attacks, phases and strategies.
 ---
 
 # Myrafic

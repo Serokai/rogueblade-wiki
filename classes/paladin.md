@@ -1,5 +1,5 @@
 ---
-description: Paladin class — stats, starting loadout, skills and mastery passive.
+description: Paladin class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Paladin

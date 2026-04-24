@@ -1,5 +1,5 @@
 ---
-description: Centipede Molter boss — attacks, phases and strategies.
+description: Centipede Molter boss - attacks, phases and strategies.
 ---
 
 # Centipede Molter

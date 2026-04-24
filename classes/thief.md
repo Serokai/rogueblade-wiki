@@ -1,5 +1,5 @@
 ---
-description: Thief class — stats, starting loadout, skills and mastery passive.
+description: Thief class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Thief

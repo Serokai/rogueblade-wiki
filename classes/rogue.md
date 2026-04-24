@@ -1,5 +1,5 @@
 ---
-description: Rogue class — stats, starting loadout, skills and mastery passive.
+description: Rogue class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Rogue

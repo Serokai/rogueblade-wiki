@@ -1,5 +1,5 @@
 ---
-description: Bull Molter boss — attacks, phases and strategies.
+description: Bull Molter boss - attacks, phases and strategies.
 ---
 
 # Bull Molter

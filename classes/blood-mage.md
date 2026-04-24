@@ -1,5 +1,5 @@
 ---
-description: Blood Mage class — stats, starting loadout, skills and mastery passive.
+description: Blood Mage class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Blood Mage

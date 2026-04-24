@@ -1,5 +1,5 @@
 ---
-description: Cowboy class — stats, starting loadout, skills and mastery passive.
+description: Cowboy class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Cowboy

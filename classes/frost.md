@@ -1,5 +1,5 @@
 ---
-description: Frost class — stats, starting loadout, skills and mastery passive.
+description: Frost class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Frost

@@ -1,5 +1,5 @@
 ---
-description: Bloodlands biome — enemies, boss, hazards.
+description: Bloodlands biome - enemies, boss, hazards.
 ---
 
 # Bloodlands

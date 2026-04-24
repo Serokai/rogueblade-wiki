@@ -1,5 +1,5 @@
 ---
-description: All primary accessories — stats, prices, and stacking rules.
+description: All primary accessories - stats, prices, and stacking rules.
 ---
 
 # Artifacts

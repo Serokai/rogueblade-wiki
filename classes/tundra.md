@@ -1,5 +1,5 @@
 ---
-description: Tundra class — stats, starting loadout, skills and mastery passive.
+description: Tundra class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Tundra

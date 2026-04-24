@@ -1,5 +1,5 @@
 ---
-description: Merchant class — stats, starting loadout, skills and mastery passive.
+description: Merchant class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Merchant

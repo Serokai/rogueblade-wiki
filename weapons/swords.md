@@ -1,5 +1,5 @@
 ---
-description: All melee sword weapons — damage and scaling with Strength.
+description: All melee sword weapons - damage and scaling with Strength.
 ---
 
 # Swords

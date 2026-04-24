@@ -1,5 +1,5 @@
 ---
-description: Ranger class — stats, starting loadout, skills and mastery passive.
+description: Ranger class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Ranger

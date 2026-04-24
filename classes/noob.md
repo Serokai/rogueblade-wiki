@@ -1,5 +1,5 @@
 ---
-description: Noob class — stats, starting loadout, skills and mastery passive.
+description: Noob class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Noob

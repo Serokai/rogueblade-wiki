@@ -1,5 +1,5 @@
 ---
-description: Crusher class — stats, starting loadout, skills and mastery passive.
+description: Crusher class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Crusher

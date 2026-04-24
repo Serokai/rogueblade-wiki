@@ -1,5 +1,5 @@
 ---
-description: Dealer class — stats, starting loadout, skills and mastery passive.
+description: Dealer class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Dealer

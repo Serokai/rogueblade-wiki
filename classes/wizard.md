@@ -1,5 +1,5 @@
 ---
-description: Wizard class — stats, starting loadout, skills and mastery passive.
+description: Wizard class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Wizard

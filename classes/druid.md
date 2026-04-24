@@ -1,5 +1,5 @@
 ---
-description: Druid class — stats, starting loadout, skills and mastery passive.
+description: Druid class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Druid

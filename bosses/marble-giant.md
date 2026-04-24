@@ -1,5 +1,5 @@
 ---
-description: Marble Giant boss — attacks, phases and strategies.
+description: Marble Giant boss - attacks, phases and strategies.
 ---
 
 # Marble Giant

@@ -1,5 +1,5 @@
 ---
-description: Frozen Castle biome — enemies, boss, hazards.
+description: Frozen Castle biome - enemies, boss, hazards.
 ---
 
 # Frozen Castle

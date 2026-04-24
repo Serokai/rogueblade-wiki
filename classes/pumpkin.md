@@ -1,5 +1,5 @@
 ---
-description: Pumpkin class — stats, starting loadout, skills and mastery passive.
+description: Pumpkin class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Pumpkin

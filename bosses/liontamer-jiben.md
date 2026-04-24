@@ -1,5 +1,5 @@
 ---
-description: Liontamer Jiben boss — attacks, phases and strategies.
+description: Liontamer Jiben boss - attacks, phases and strategies.
 ---
 
 # Liontamer Jiben

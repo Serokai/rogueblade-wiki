@@ -1,5 +1,5 @@
 ---
-description: Cemetery biome — enemies, boss, hazards.
+description: Cemetery biome - enemies, boss, hazards.
 ---
 
 # Cemetery

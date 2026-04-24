@@ -1,5 +1,5 @@
 ---
-description: Mushroom Giant boss — attacks, phases and strategies.
+description: Mushroom Giant boss - attacks, phases and strategies.
 ---
 
 # Mushroom Giant

@@ -1,5 +1,5 @@
 ---
-description: Capital Otis biome — enemies, boss, hazards.
+description: Capital Otis biome - enemies, boss, hazards.
 ---
 
 # Capital Otis

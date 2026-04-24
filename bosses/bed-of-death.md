@@ -1,5 +1,5 @@
 ---
-description: Bed Of Death boss — attacks, phases and strategies.
+description: Bed Of Death boss - attacks, phases and strategies.
 ---
 
 # Bed Of Death

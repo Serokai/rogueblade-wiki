@@ -1,5 +1,5 @@
 ---
-description: Mushroom Highlands biome — enemies, boss, hazards.
+description: Mushroom Highlands biome - enemies, boss, hazards.
 ---
 
 # Mushroom Highlands

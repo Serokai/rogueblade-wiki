@@ -1,5 +1,5 @@
 ---
-description: Pyromancer boss — attacks, phases and strategies.
+description: Pyromancer boss - attacks, phases and strategies.
 ---
 
 # Pyromancer

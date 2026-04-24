@@ -6,8 +6,8 @@ description: Sources and credits for this unofficial wiki.
 
 ## 🔗 Sources
 
-* 💬 [**Official RogueBlade Discord**](https://www.roblox.com/games/13141106123/RogueBlade) — patch notes, sneak peeks, balance discussion
-* 📖 [**Fandom Wiki (Roblox Rogue Blade)**](https://roblox-rogue-blade.fandom.com/wiki/Roblox_Rogue_Blade_Wiki) — page inventory, lore references
+* 💬 [**Official RogueBlade Discord**](https://www.roblox.com/games/13141106123/RogueBlade) - patch notes, sneak peeks, balance discussion
+* 📖 [**Fandom Wiki (Roblox Rogue Blade)**](https://roblox-rogue-blade.fandom.com/wiki/Roblox_Rogue_Blade_Wiki) - page inventory, lore references
 * 🎮 In-game testing by contributors
 
 ## 👥 Game development team

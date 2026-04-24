@@ -1,5 +1,5 @@
 ---
-description: Moltenica biome — enemies, boss, hazards.
+description: Moltenica biome - enemies, boss, hazards.
 ---
 
 # Moltenica

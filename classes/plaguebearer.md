@@ -1,5 +1,5 @@
 ---
-description: Plaguebearer class — stats, starting loadout, skills and mastery passive.
+description: Plaguebearer class - stats, starting loadout, skills and mastery passive.
 ---
 
 # Plaguebearer
