@@ -1,0 +1,3 @@
+# Rituals
+
+To be documented.
