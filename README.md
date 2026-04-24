@@ -19,6 +19,12 @@ layout:
 
 # 🗡️ RogueBlade Wiki
 
+<div align="center">
+
+<img src=".gitbook/assets/logo.png" alt="RogueBlade logo" width="220">
+
+</div>
+
 **RogueBlade** is a co-op roguelike on Roblox: pick one of 29 classes, dive through procedurally generated biomes, fight bosses, and chase synergies between weapons, artifacts, and rituals.
 
 {% embed url="https://www.roblox.com/games/13141106123/RogueBlade" %}
