@@ -1,3 +1,0 @@
-# Samurai
-
-To be documented.

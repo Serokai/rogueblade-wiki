@@ -1,3 +1,0 @@
-# Reflector
-
-To be documented.

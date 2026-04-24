@@ -1,3 +1,0 @@
-# Beekeeper
-
-To be documented.

@@ -1,3 +1,0 @@
-# Gambler
-
-To be documented.

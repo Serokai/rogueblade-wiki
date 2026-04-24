@@ -1,3 +1,0 @@
-# Trickster
-
-To be documented.

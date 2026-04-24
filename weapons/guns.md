@@ -1,3 +1,0 @@
-# Guns
-
-To be documented.

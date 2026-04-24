@@ -1,3 +1,0 @@
-# Farmer
-
-To be documented.

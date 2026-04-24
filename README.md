@@ -1,25 +1,88 @@
-# RogueBlade Wiki (Unofficial)
+---
+description: >-
+  The unofficial community wiki for RogueBlade — a 3-4 player co-op roguelite
+  on Roblox inspired by Binding of Isaac, Risk of Rain, and Randomly Generated
+  Droids.
+cover: .gitbook/assets/cover.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-Welcome to the **unofficial** RogueBlade wiki — a community-maintained reference for the game.
+# 🗡️ RogueBlade Wiki
 
-> This wiki is not affiliated with or endorsed by the developers of RogueBlade.
+{% hint style="info" %}
+**Unofficial.** This wiki is community-maintained and is **not** affiliated with or endorsed by the developers of RogueBlade. Info reflects the current live version and may lag behind recent patches.
+{% endhint %}
 
-## About the Game
+Welcome to the **unofficial RogueBlade wiki** — your reference for classes, weapons, items, enemies, biomes, and everything in between.
 
-[**RogueBlade**](https://www.roblox.com/games/13141106123/RogueBlade) is a roguelite game on Roblox, inspired by [Randomly Generated Droids](https://www.roblox.com/games/2474473625/Randomly-Generated-Droids), [The Binding of Isaac](https://bindingofisaac.com/) and [Risk of Rain](https://riskofrain.com/).
+[**▶️ Play RogueBlade on Roblox**](https://www.roblox.com/games/13141106123/RogueBlade)
 
-It's intended to be played co-op with **3 to 4 players**, where you fight your way through procedurally generated runs, collecting items and powering up your character along the way.
+## 🎮 The game
 
-## What You'll Find Here
+**RogueBlade** is a co-op roguelite built for **3–4 players**. Fight through procedurally ordered biomes, buy items between waves, unlock classes with blood earned from previous runs, and chain synergies until you're strong enough to survive Nightmare mode.
 
-This wiki aims to document everything about RogueBlade:
+Inspired by:
 
-- Core mechanics and controls
-- Classes and playstyles
-- Items, synergies, and builds
-- Enemies and bosses
-- Tips and strategies for new players
+* 🎲 [Randomly Generated Droids](https://www.roblox.com/games/2474473625/Randomly-Generated-Droids)
+* 😈 [The Binding of Isaac](https://bindingofisaac.com/)
+* 🌧️ [Risk of Rain](https://riskofrain.com/)
 
-## Contributing
+## 🧭 Jump to
 
-Spotted something missing or incorrect? Contributions are welcome — open a pull request or an issue on the [GitHub repository](https://github.com/Serokai/rogueblade-wiki).
+<table data-view="cards">
+  <thead>
+    <tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>🎮 Getting Started</strong></td>
+      <td>Controls, basic mechanics, and how co-op works.</td>
+      <td><a href="getting-started/how-to-play.md">how-to-play.md</a></td>
+    </tr>
+    <tr>
+      <td><strong>🎭 Classes</strong></td>
+      <td>All 29 playable classes with stats, skills and masteries.</td>
+      <td><a href="classes/README.md">README.md</a></td>
+    </tr>
+    <tr>
+      <td><strong>⚙️ Mechanics</strong></td>
+      <td>Stats, defense, mana, debuffs, rituals, skills.</td>
+      <td><a href="mechanics/stats.md">stats.md</a></td>
+    </tr>
+    <tr>
+      <td><strong>⚔️ Weapons</strong></td>
+      <td>Swords, staffs, books, slingshots, shields.</td>
+      <td><a href="weapons/README.md">README.md</a></td>
+    </tr>
+    <tr>
+      <td><strong>🎒 Items</strong></td>
+      <td>Artifacts, rings, rituals, coils.</td>
+      <td><a href="items/README.md">README.md</a></td>
+    </tr>
+    <tr>
+      <td><strong>👑 Bosses</strong></td>
+      <td>Every major boss from Chief Telamon to Pluto.</td>
+      <td><a href="bosses/README.md">README.md</a></td>
+    </tr>
+  </tbody>
+</table>
+
+## 🤝 Contributing
+
+Found an error, outdated info, or a missing page? Pull requests and issues are welcome on the [**GitHub repository**](https://github.com/Serokai/rogueblade-wiki).
+
+When in doubt, follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) spec for your commit messages — `docs(classes/vampire): add skill descriptions`, `fix(items/lich): correct healing value`, and so on.

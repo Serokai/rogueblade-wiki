@@ -1,3 +1,0 @@
-# Assassin
-
-To be documented.

@@ -1,3 +1,0 @@
-# Defender
-
-To be documented.

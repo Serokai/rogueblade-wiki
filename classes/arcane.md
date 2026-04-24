@@ -1,3 +1,0 @@
-# Arcane
-
-To be documented.
