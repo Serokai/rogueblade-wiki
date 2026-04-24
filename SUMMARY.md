@@ -4,6 +4,7 @@
 
 ## 🎮 Getting Started
 
+* [Overview](getting-started/README.md)
 * [How to Play](getting-started/how-to-play.md)
 * [Controls](getting-started/controls.md)
 * [Co-op Play](getting-started/coop.md)
@@ -44,12 +45,16 @@
 
 ## ⚙️ Mechanics
 
+* [Overview](mechanics/README.md)
 * [Stats](mechanics/stats.md)
 * [Combat](mechanics/combat.md)
 * [Defense System](mechanics/defense.md)
 * [Critical Hits](mechanics/critical.md)
 * [Aggro](mechanics/aggro.md)
 * [Mana System](mechanics/mana.md)
+* [Faith](mechanics/faith.md)
+* [Blood](mechanics/blood.md)
+* [Edinhos](mechanics/edinhos.md)
 * [Debuffs](mechanics/debuffs.md)
 * [Rituals](mechanics/rituals.md)
 * [Skills & Mastery](mechanics/skills.md)
