@@ -23,7 +23,9 @@ layout:
 
 <img src=".gitbook/assets/logo.png" alt="" width="220">
 
-[▶️ Play RogueBlade on Roblox](https://www.roblox.com/games/13141106123/RogueBlade)
+<br><br>
+
+<a href="https://www.roblox.com/games/13141106123/RogueBlade"><img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F%20Play%20on%20Roblox-00A2FF?style=for-the-badge&logoColor=white" alt="Play on Roblox" height="42"></a>
 
 </div>
 
