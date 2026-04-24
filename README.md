@@ -35,13 +35,24 @@ layout:
 
 ## 🎮 The game
 
-**RogueBlade** is a co-op roguelite built for **3 to 4 players**. Fight through procedurally ordered biomes, buy items between waves, unlock classes with blood earned from previous runs, and chain synergies until you're strong enough to survive Nightmare mode.
+{% hint style="info" %}
+**RogueBlade** is a co-op roguelite built for **3 to 4 players**. Fight through procedurally ordered biomes, buy items between waves, unlock classes with blood earned from previous runs, and chain synergies until you're strong enough to survive **Nightmare mode**.
+{% endhint %}
+
+| 👥 Players | 🎲 Genre | 🏆 Difficulty | 🔄 Run length |
+|---|---|---|---|
+| 1-4 (best with 3-4) | Co-op roguelite | Normal · Nightmare | ~30-60 min |
 
 ### 🎲 Inspired by
 
-* [Randomly Generated Droids](https://www.roblox.com/games/2474473625/Randomly-Generated-Droids)
-* [The Binding of Isaac](https://bindingofisaac.com/)
-* [Risk of Rain](https://riskofrain.com/)
+<table data-view="cards">
+<thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead>
+<tbody>
+<tr><td><strong>🤖 Randomly Generated Droids</strong></td><td>Roblox roguelite with a class-driven loop. The closest cousin.</td><td><a href="https://www.roblox.com/games/2474473625/Randomly-Generated-Droids">Randomly Generated Droids</a></td></tr>
+<tr><td><strong>😈 The Binding of Isaac</strong></td><td>Item synergies, shop rooms, deep build variety.</td><td><a href="https://bindingofisaac.com/">The Binding of Isaac</a></td></tr>
+<tr><td><strong>🌧️ Risk of Rain</strong></td><td>Wave-based scaling, stacking items, escalating chaos.</td><td><a href="https://riskofrain.com/">Risk of Rain</a></td></tr>
+</tbody>
+</table>
 
 ## 🧭 Jump to
 
