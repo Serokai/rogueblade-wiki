@@ -1,5 +1,5 @@
 ---
-description: Nightmare mode rules: scaling, defense cap, reduced healing, new enemies.
+description: "Nightmare mode rules: scaling, defense cap, reduced healing, new enemies."
 ---
 
 # Nightmare & NG+

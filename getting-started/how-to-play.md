@@ -1,5 +1,5 @@
 ---
-description: A quick primer on a RogueBlade run: lobby, waves, shops, bosses, death.
+description: "A quick primer on a RogueBlade run: lobby, waves, shops, bosses, death."
 ---
 
 # How to Play
