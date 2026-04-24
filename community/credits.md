@@ -4,13 +4,13 @@ description: Sources and credits for this unofficial wiki.
 
 # 📚 Credits & Sources
 
-## Data sources
+## 🔗 Sources
 
-* The official [RogueBlade Discord](https://www.roblox.com/games/13141106123/RogueBlade) for patch notes
-* The community-run [Fandom wiki](https://roblox-rogue-blade.fandom.com/wiki/Roblox_Rogue_Blade_Wiki) for page inventory and lore references
-* In-game testing by contributors
+* 💬 [**Official RogueBlade Discord**](https://www.roblox.com/games/13141106123/RogueBlade) — patch notes, sneak peeks, balance discussion
+* 📖 [**Fandom Wiki (Roblox Rogue Blade)**](https://roblox-rogue-blade.fandom.com/wiki/Roblox_Rogue_Blade_Wiki) — page inventory, lore references
+* 🎮 In-game testing by contributors
 
-## Development team (game)
+## 👥 Game development team
 
 | Role | Credit |
 |---|---|
@@ -24,5 +24,5 @@ description: Sources and credits for this unofficial wiki.
 | Community Manager | **Wheatley [TF2]** |
 
 {% hint style="info" %}
-This wiki is **unofficial** and not affiliated with the RogueBlade development team. If you spot a credit missing or wrong, open an issue on [GitHub](https://github.com/Serokai/rogueblade-wiki/issues).
+This wiki is **unofficial** and not affiliated with the RogueBlade development team.
 {% endhint %}

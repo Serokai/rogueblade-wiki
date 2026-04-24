@@ -137,10 +137,6 @@ See the [Currencies](currencies/blood.md) section for full details.
 <details>
 <summary>Can I contribute to this wiki?</summary>
 
-Yes! Pull requests and issues are welcome on the [GitHub repository](https://github.com/Serokai/rogueblade-wiki). See the [contributing guide](community/contributing.md) for the style guide and commit conventions.
+Yes — anyone can contribute. Open a PR or an issue on the [GitHub repository](https://github.com/Serokai/rogueblade-wiki).
 
 </details>
-
-## 🤝 Contributing
-
-Found an error, outdated info, or a missing page? [Open a PR or an issue](https://github.com/Serokai/rogueblade-wiki) — see the [contributing guide](community/contributing.md) for the style guide.

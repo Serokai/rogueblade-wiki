@@ -159,5 +159,4 @@
 
 ## 🤝 Community
 
-* [Contributing](community/contributing.md)
 * [Credits & Sources](community/credits.md)
