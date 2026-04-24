@@ -29,9 +29,7 @@ layout:
 
 </div>
 
-{% hint style="info" %}
-**Unofficial.** This wiki is community-maintained and is **not** affiliated with or endorsed by the developers of RogueBlade. Info reflects the current live version and may lag behind recent patches.
-{% endhint %}
+> ⚠️ **Unofficial.** This wiki is community-maintained and is **not** affiliated with or endorsed by the developers of RogueBlade. Info reflects the current live version and may lag behind recent patches.
 
 Welcome to the **unofficial RogueBlade wiki** — your reference for classes, weapons, items, enemies, biomes, and everything in between.
 
@@ -43,52 +41,19 @@ Welcome to the **unofficial RogueBlade wiki** — your reference for classes, we
 
 Inspired by:
 
-* 🎲 [Randomly Generated Droids](https://www.roblox.com/games/2474473625/Randomly-Generated-Droids)
-* 😈 [The Binding of Isaac](https://bindingofisaac.com/)
-* 🌧️ [Risk of Rain](https://riskofrain.com/)
+- 🎲 [Randomly Generated Droids](https://www.roblox.com/games/2474473625/Randomly-Generated-Droids)
+- 😈 [The Binding of Isaac](https://bindingofisaac.com/)
+- 🌧️ [Risk of Rain](https://riskofrain.com/)
 
 ## 🧭 Jump to
 
-<table data-view="cards">
-  <thead>
-    <tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>🎮 Getting Started</strong></td>
-      <td>Controls, basic mechanics, and how co-op works.</td>
-      <td><a href="getting-started/how-to-play.md">how-to-play.md</a></td>
-    </tr>
-    <tr>
-      <td><strong>🎭 Classes</strong></td>
-      <td>All 29 playable classes with stats, skills and masteries.</td>
-      <td><a href="classes/README.md">README.md</a></td>
-    </tr>
-    <tr>
-      <td><strong>⚙️ Mechanics</strong></td>
-      <td>Stats, defense, mana, debuffs, rituals, skills.</td>
-      <td><a href="mechanics/stats.md">stats.md</a></td>
-    </tr>
-    <tr>
-      <td><strong>⚔️ Weapons</strong></td>
-      <td>Swords, staffs, books, slingshots, shields.</td>
-      <td><a href="weapons/README.md">README.md</a></td>
-    </tr>
-    <tr>
-      <td><strong>🎒 Items</strong></td>
-      <td>Artifacts, rings, rituals, coils.</td>
-      <td><a href="items/README.md">README.md</a></td>
-    </tr>
-    <tr>
-      <td><strong>👑 Bosses</strong></td>
-      <td>Every major boss from Chief Telamon to Pluto.</td>
-      <td><a href="bosses/README.md">README.md</a></td>
-    </tr>
-  </tbody>
-</table>
+- 🎮 **[Getting Started](getting-started/how-to-play.md)** — controls, basic mechanics, how co-op works
+- 🎭 **[Classes](classes/README.md)** — all 29 playable classes with stats, skills and masteries
+- ⚙️ **[Mechanics](mechanics/stats.md)** — stats, defense, mana, debuffs, rituals, skills
+- ⚔️ **[Weapons](weapons/README.md)** — swords, staffs, books, slingshots, shields
+- 🎒 **[Items](items/README.md)** — artifacts, rings, rituals, coils
+- 👑 **[Bosses](bosses/README.md)** — every major boss from Chief Telamon to Pluto
 
 ## 🤝 Contributing
 
 Found an error, outdated info, or a missing page? Pull requests and issues are welcome on the [**GitHub repository**](https://github.com/Serokai/rogueblade-wiki).
-
-When in doubt, follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) spec for your commit messages — `docs(classes/vampire): add skill descriptions`, `fix(items/lich): correct healing value`, and so on.
